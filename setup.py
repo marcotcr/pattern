@@ -50,7 +50,7 @@ if sys.argv[-1] == "zip":
 # "python setup.py install" will install /pattern in /site-packages.
 
 setup(
-            name = "Pattern",
+            name = "patternfork-nosql",
          version = "3.6",
      description = "Web mining module for Python.",
          license = "BSD",
